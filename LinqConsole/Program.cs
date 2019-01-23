@@ -65,7 +65,7 @@ namespace LinqConsole
 
         }
         class Ogrenci
-        {
+        {//
             public string Adi { get; set; }
             public string Soyadi { get; set; }
             public int no { get; set; }
